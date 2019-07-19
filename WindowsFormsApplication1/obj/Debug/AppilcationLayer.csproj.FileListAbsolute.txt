@@ -1,0 +1,121 @@
+G:\C# Project work\project next\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\C# Project work\project next\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\C# Project work\project next\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\AppilcationLayer.csprojResolveAssemblyReference.cache
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\AppilcationLayer.csproj.GenerateResource.Cache
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RecieverRegForm.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DonarRegForm.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EmployeeRegForm.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Firstpage.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DonarLogin.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminPanelLogin.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EmployeeLogin.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RecieverLogin.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter2DonarForm.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter00Employee00000.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter11EmployeeForm.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter22EmployeeForm.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminEnter1.resources
+G:\C# Project work\project next\WindowsFormsApplication1\bin\Debug\DataRepositoryLayer.dll
+G:\C# Project work\project next\WindowsFormsApplication1\bin\Debug\DataRepositoryLayer.pdb
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\AppilcationLayer.csprojResolveAssemblyReference.cache
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminEnter1.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminPanelLogin.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DonarLogin.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DonarRegForm.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EmployeeLogin.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EmployeeRegForm.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter00Employee00000.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter11EmployeeForm.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter22EmployeeForm.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter2DonarForm.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Firstpage.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RecieverLogin.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RecieverRegForm.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\AppilcationLayer.csproj.GenerateResource.Cache
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\bin\Debug\DataRepositoryLayer.dll
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\bin\Debug\DataRepositoryLayer.pdb
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChangeEmploeePassword.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\bin\Debug\DataRepositoryLayer.dll
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\bin\Debug\DataRepositoryLayer.pdb
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\AppilcationLayer.csprojResolveAssemblyReference.cache
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminEnter1.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminEnter22.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminPanelLogin.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChangeEmploeePassword.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DonarLogin.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DonarRegForm.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EmployeeLogin.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EmployeeRegForm.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter00Employee00000.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter11EmployeeForm.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter22EmployeeForm.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter2DonarForm.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Firstpage.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RecieverLogin.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RecieverRegForm.resources
+C:\Users\NEXT\Desktop\New folder\project next\WindowsFormsApplication1\obj\Debug\AppilcationLayer.csproj.GenerateResource.Cache
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminEnter22.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterDonar1.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterDonar2.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterEmployee3.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterReciever1.resources
+C:\Users\NEXT\Desktop\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterReciever2.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminEnter22.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChangeEmploeePassword.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterDonar1.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterDonar2.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterEmployee3.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterReciever1.resources
+G:\C# Project work\project next\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterReciever2.resources
+C:\Users\NEXT\Desktop\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\NEXT\Desktop\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\NEXT\Desktop\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\EXAM CONTROL\Spring 8\SPRING 18\SPRING MID 18\C#FinalProject\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\EXAM CONTROL\Spring 8\SPRING 18\SPRING MID 18\C#FinalProject\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\EXAM CONTROL\Spring 8\SPRING 18\SPRING MID 18\C#FinalProject\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\bin\Debug\DataRepositoryLayer.dll
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\bin\Debug\DataRepositoryLayer.pdb
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\AppilcationLayer.csprojResolveAssemblyReference.cache
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminEnter1.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminEnter22.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AdminPanelLogin.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ChangeEmploeePassword.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DonarLogin.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DonarRegForm.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EmployeeLogin.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EmployeeRegForm.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter00Employee00000.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter11EmployeeForm.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter22EmployeeForm.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Enter2DonarForm.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterDonar1.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterDonar2.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterEmployee3.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterReciever1.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterReciever2.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Firstpage.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RecieverLogin.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RecieverRegForm.resources
+C:\Users\NEXT\Desktop\ProjectNext\WindowsFormsApplication1\obj\Debug\AppilcationLayer.csproj.GenerateResource.Cache

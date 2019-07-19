@@ -1,0 +1,21 @@
+G:\C# Project work\project next\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.csprojResolveAssemblyReference.cache
+G:\C# Project work\project next\DataRepositoryLayer\bin\Debug\DataRepositoryLayer.dll
+G:\C# Project work\project next\DataRepositoryLayer\bin\Debug\DataRepositoryLayer.pdb
+G:\C# Project work\project next\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.dll
+G:\C# Project work\project next\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.pdb
+C:\Users\NEXT\Desktop\project next\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.csprojResolveAssemblyReference.cache
+C:\Users\NEXT\Desktop\project next\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.dll
+C:\Users\NEXT\Desktop\project next\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.pdb
+C:\Users\NEXT\Desktop\project next\DataRepositoryLayer\bin\Debug\DataRepositoryLayer.dll
+C:\Users\NEXT\Desktop\project next\DataRepositoryLayer\bin\Debug\DataRepositoryLayer.pdb
+C:\Users\NEXT\Desktop\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.csprojResolveAssemblyReference.cache
+C:\Users\NEXT\Desktop\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.dll
+C:\Users\NEXT\Desktop\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.pdb
+E:\EXAM CONTROL\Spring 8\SPRING 18\SPRING MID 18\C#FinalProject\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.csprojResolveAssemblyReference.cache
+E:\EXAM CONTROL\Spring 8\SPRING 18\SPRING MID 18\C#FinalProject\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.dll
+E:\EXAM CONTROL\Spring 8\SPRING 18\SPRING MID 18\C#FinalProject\Donatation Management System with database 15-apr-18  by 16-31284-1\DonationManagementProjectFile\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.pdb
+C:\Users\NEXT\Desktop\ProjectNext\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.csprojResolveAssemblyReference.cache
+C:\Users\NEXT\Desktop\ProjectNext\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.dll
+C:\Users\NEXT\Desktop\ProjectNext\DataRepositoryLayer\obj\Debug\DataRepositoryLayer.pdb
+C:\Users\NEXT\Desktop\ProjectNext\DataRepositoryLayer\bin\Debug\DataRepositoryLayer.dll
+C:\Users\NEXT\Desktop\ProjectNext\DataRepositoryLayer\bin\Debug\DataRepositoryLayer.pdb
